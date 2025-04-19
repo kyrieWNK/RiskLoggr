@@ -1,0 +1,16 @@
+[theme]
+base="dark"
+primaryColor="#14E956"                      # Vibrant green for accents (terminal feel)
+backgroundColor="#0F1117"                   # Deep navy/charcoal background
+secondaryBackgroundColor="#1A1D26"          # Slightly elevated panels
+textColor="#E5E5E5"                         # Soft light gray text
+font="monospace"                            # Modern terminal vibe
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[client]
+showSidebarNavigation = false
+toolbarMode = "minimal"

@@ -1,0 +1,10 @@
+env/
+.env
+*.key
+*.pem
+*.crt
+*.env.local
+config/secrets.yml
+node_modules/
+__pycache__/
+.DS_Store
